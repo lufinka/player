@@ -2,7 +2,10 @@
 
 > An electron-vue project
 ## 预览
-![player](/lufinka/player/blob/master/build/icons/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190730094326.png?raw=true '''')
+
+![player](https://raw.githubusercontent.com/lufinka/player/master/build/icons/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190730094326.png)
+![player](https://raw.githubusercontent.com/lufinka/player/master/build/icons/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190730094501.png)
+
 #### Build Setup
 
 ``` bash
