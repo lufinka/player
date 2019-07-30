@@ -1,7 +1,8 @@
 # my-project
 
 > An electron-vue project
-
+## 预览
+![player](/lufinka/player/blob/master/build/icons/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190730094326.png?raw=true '''')
 #### Build Setup
 
 ``` bash
